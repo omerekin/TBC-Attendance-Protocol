@@ -9,6 +9,6 @@ Design a protocol that distributes “JumboCoin” to members that fill out an a
 **What is already provided:** <br />
 An HTML5 form is already provided, however backend infrastructure connecting the HTML to a smart contract is lacking and must be built out.
 
-Part 1: Connect the form to Remix to autonomously distribute ERC-20 tokens to club members. <br />
-Part 2: Create a security system to prevent members from over distributing JumboCoin to themselves during the open period of the form submission. <br />
-Part 3: Automate the form’s submission opening and closing times to only specific dates and times that can be set in advance.
+**Part 1:** Connect the form to Remix to autonomously distribute ERC-20 tokens to club members. <br />
+**Part 2:** Create a security system to prevent members from over distributing JumboCoin to themselves during the open period of the form submission. <br />
+**Part 3:** Automate the form’s submission opening and closing times to only specific dates and times that can be set in advance.
