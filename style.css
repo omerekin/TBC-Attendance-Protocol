@@ -1,0 +1,41 @@
+.heading {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    padding-top: 200px;
+}
+
+img {
+    width: auto;
+    height: 100px;
+}
+
+.form {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+label{
+    display: inline-block;
+    clear: left;
+    width: 150px;
+    text-align: left;
+    margin: 5px;
+}
+input {
+  display: inline-block;
+  margin: 5px;
+}
+
+button {
+    margin-top: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    opacity: 0.6;
+}
+  
+button:hover {
+    background-color: dimgray;
+    color: white;
+    opacity: 1;
+  }
